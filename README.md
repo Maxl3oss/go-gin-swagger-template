@@ -20,7 +20,7 @@ POSTGRES_PASSWORD=[password]
 POSTGRES_DB=[Database_Name]
 ```
 
-# Gen swagger
+# Setup
 ###### install gin-swagger
 https://github.com/swaggo/gin-swagger
 > after that  run
