@@ -46,4 +46,21 @@ air
 ```
 
 ###### open swagger
-[inline link](localhost:[Port]/swagger/swagger/index.html)
+localhost:[Port]/swagger/swagger/index.html
+
+
+```css
+   .                .
+   :"-.          .-";
+   |:`.`.__..__.'.';|
+   || :-"      "-; ||
+   :;              :;
+   /  .==.    .==.  \
+  :      _.--._      ;
+  ; .--.' `--' `.--. :
+ :   __;`      ':__   ;
+ ;  '  '-._:;_.-'  '  :
+ '.       `--'       .'
+  ."-._          _.-".
+.'     ""------""     `.
+```
