@@ -13,11 +13,11 @@ go mod tidy
 ```yaml
 Port=[port gogin]
 Connect_type=psql
-Db_psql=Postgres://[Username]:[Password]@[Hostname]:[Port]/[Database_Name]?Sslmode=Disable
+Db_psql=Postgres://[Username]:[Password]@[Hostname]:[Port]/[DatabaseName]?Sslmode=Disable
 
-POSTGRES_USER=[postgres]
-POSTGRES_PASSWORD=[password]
-POSTGRES_DB=[Database_Name]
+POSTGRES_USER=[Username]
+POSTGRES_PASSWORD=[Password]
+POSTGRES_DB=[DatabaseName]
 ```
 
 # Setup
@@ -44,3 +44,6 @@ cmd = "go build -o ./tmp/main ./cmd/api"
 docker compose up -d
 air
 ```
+
+###### open swagger
+[inline link](localhost:[Port]/swagger/swagger/index.html)
