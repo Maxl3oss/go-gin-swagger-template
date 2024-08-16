@@ -46,7 +46,7 @@ air
 ```
 
 ###### open swagger
-localhost:[Port]/swagger/swagger/index.html
+localhost:[Port]/swagger/index.html
 
 
 ```css
